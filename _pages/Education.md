@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Education"
+permalink: /education/
+author_profile: true
+---
 
 ## Education ##
 * University of California, Riverside
